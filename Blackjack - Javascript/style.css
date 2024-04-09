@@ -1,0 +1,37 @@
+body {
+    background: url(casino.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align: center;
+}
+
+h1 {
+    color: goldenrod;
+    text-align: center;
+    font-size: 45px;  
+}
+
+p {
+    text-align: center;
+    font-size: 30px;
+    color: white;
+    font-weight: bold;
+    font-style: italic;
+}
+
+button{
+    border: none;
+    color: #016f32;
+    width: 150px;
+    background: goldenrod;
+    font-weight: bold;
+    font-size: 18px;
+    padding-block: 5px;
+    border-radius: 2px;
+    margin-block: 2px;
+}
+
+button:hover {
+    border: 6px solid lightblue;
+}
